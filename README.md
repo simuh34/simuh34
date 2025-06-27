@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I am now engaged in PhD studies at the University of Macau. 
+- 🌱 I am now engaged in PhD studies at the University of Macau. This is Simu Huang.
 
 
 <!--
