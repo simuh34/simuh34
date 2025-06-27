@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I am now engaged in PhD studies at the University of Macau. 
 
-- 
+
 <!--
 **simuh34/simuh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
