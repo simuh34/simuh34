@@ -1,5 +1,5 @@
 ## Hi there 👋 This is Simu Huang.
-- 🌱 I am now engaged in PhD studies at the University of Macau. 
+- 🌱 PhD Candidate @ University of Macau | M.S. in Statistical Practice, Boston University | Statistics & Public Health Research
 
 
 <!--
