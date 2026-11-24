@@ -1,7 +1,13 @@
 ## Hi there 👋 This is Simu Huang.
 - 🌱 PhD Candidate @ University of Macau | M.S. in Statistical Practice, Boston University | Statistics & Public Health Research
 
+### Academic Profiles
 
+- [Simu Huang – Google Scholar](https://scholar.google.com/citations?user=hBQ6p20AAAAJ)
+- [ORCID](https://orcid.org/0009-0005-5889-649X)
+- [LinkedIn](https://www.linkedin.com/in/simu-huang-3825341b4/)
+
+  
 <!--
 **simuh34/simuh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
