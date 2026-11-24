@@ -4,7 +4,6 @@
 ### Academic Profiles
 
 - [Simu Huang – Google Scholar](https://scholar.google.com/citations?user=hBQ6p20AAAAJ)
-- [ORCID](https://orcid.org/0009-0005-5889-649X)
 - [LinkedIn](https://www.linkedin.com/in/simu-huang-3825341b4/)
 
   
